@@ -1,17 +1,24 @@
-# Python Assignments
+# Assignment 1
 
-This repository contains Two assignments, each with two Python tasks and a brief explanation.
+This assignment contains two basic Python programming tasks designed to practice fundamental programming concepts such as arithmetic operations, input/output handling, and string manipulation.
 
-## 📁 Folder Structure
+## Task 1: Perform Basic Mathematical Operations
+
+In this task, you will:
+
+- Take two numbers as input from the user.
+- Perform basic mathematical operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Display the results in a user-friendly format.
 
 
-## 🔗 Assignments
+## Task 2: Create a Personalized Greeting
 
-- [Assignment 1](./Assignment1)
-- [Assignment 2](./Assignment2)
+In this task, you will:
 
-
-Each folder includes:
-- `task1.py` – Task 1 code
-- `task2.py` – Task 2 code
-- `README.md` – Description of both tasks
+- Ask the user for their first and last name.
+- Generate a personalized greeting message using the inputs.
+- Display the greeting.
