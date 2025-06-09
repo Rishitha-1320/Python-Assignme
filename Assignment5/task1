@@ -1,1 +1,7 @@
 
+name=input("Enter students name:")
+dictionary={'Alice':'85','Marget':'65','Richard':'80','Nolan':'70'}
+if name in dictionary:
+    print(f"{name}'s marks:{dictionary[name]}")
+else:
+    print("Student not found")
